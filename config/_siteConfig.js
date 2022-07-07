@@ -32,7 +32,7 @@ export default {
     },
     {
       name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      link: 'https://github.com/matthewfee/vue-blog',
       target: '_blank'
     },
     {
