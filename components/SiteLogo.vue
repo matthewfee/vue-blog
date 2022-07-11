@@ -1,6 +1,6 @@
 <template>
   <div class="logo-wrapper">
-    <div
+    <!-- <div
       :class="{
         'logo-inner': true,
         blink: blinking
@@ -16,7 +16,7 @@
         :key="`${x}-r`"
         :src="`/logo-frames/logo-f${frames - x}.svg`"
       />
-    </div>
+    </div> -->
   </div>
 </template>
 <script>
